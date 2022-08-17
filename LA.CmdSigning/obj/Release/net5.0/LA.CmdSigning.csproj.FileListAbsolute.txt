@@ -1,0 +1,12 @@
+C:\Users\RPL.GRUPOSOFT\Documents\Clientes\ISS\AssinaturaPDF\AmaCmdSigning-main\LA.CmdSigning\bin\Release\net5.0\LA.CmdSigning.deps.json
+C:\Users\RPL.GRUPOSOFT\Documents\Clientes\ISS\AssinaturaPDF\AmaCmdSigning-main\LA.CmdSigning\bin\Release\net5.0\LA.CmdSigning.dll
+C:\Users\RPL.GRUPOSOFT\Documents\Clientes\ISS\AssinaturaPDF\AmaCmdSigning-main\LA.CmdSigning\bin\Release\net5.0\ref\LA.CmdSigning.dll
+C:\Users\RPL.GRUPOSOFT\Documents\Clientes\ISS\AssinaturaPDF\AmaCmdSigning-main\LA.CmdSigning\bin\Release\net5.0\LA.CmdSigning.pdb
+C:\Users\RPL.GRUPOSOFT\Documents\Clientes\ISS\AssinaturaPDF\AmaCmdSigning-main\LA.CmdSigning\obj\Release\net5.0\LA.CmdSigning.csproj.AssemblyReference.cache
+C:\Users\RPL.GRUPOSOFT\Documents\Clientes\ISS\AssinaturaPDF\AmaCmdSigning-main\LA.CmdSigning\obj\Release\net5.0\LA.CmdSigning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RPL.GRUPOSOFT\Documents\Clientes\ISS\AssinaturaPDF\AmaCmdSigning-main\LA.CmdSigning\obj\Release\net5.0\LA.CmdSigning.AssemblyInfoInputs.cache
+C:\Users\RPL.GRUPOSOFT\Documents\Clientes\ISS\AssinaturaPDF\AmaCmdSigning-main\LA.CmdSigning\obj\Release\net5.0\LA.CmdSigning.AssemblyInfo.cs
+C:\Users\RPL.GRUPOSOFT\Documents\Clientes\ISS\AssinaturaPDF\AmaCmdSigning-main\LA.CmdSigning\obj\Release\net5.0\LA.CmdSigning.csproj.CoreCompileInputs.cache
+C:\Users\RPL.GRUPOSOFT\Documents\Clientes\ISS\AssinaturaPDF\AmaCmdSigning-main\LA.CmdSigning\obj\Release\net5.0\LA.CmdSigning.dll
+C:\Users\RPL.GRUPOSOFT\Documents\Clientes\ISS\AssinaturaPDF\AmaCmdSigning-main\LA.CmdSigning\obj\Release\net5.0\ref\LA.CmdSigning.dll
+C:\Users\RPL.GRUPOSOFT\Documents\Clientes\ISS\AssinaturaPDF\AmaCmdSigning-main\LA.CmdSigning\obj\Release\net5.0\LA.CmdSigning.pdb
