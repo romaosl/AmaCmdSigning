@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SigningClientApp": {
+      "commandName": "Project",
+      "commandLineArgs": "-get_hash TST_PDF_SIGN.PDF ws_cert.cer TST_PDF_SIGN_TEMP.PDF TST_PDF_SIGN_TEMP.PDF.HASH TST_PDF_SIGN_TEMP.PDF.NAKEDHASH PDF_SIGN_TEMP.PDF.SIGID TST_PDF_SIGN_TEMP.TXT"
+    }
+  }
+}
